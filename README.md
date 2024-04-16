@@ -1,6 +1,6 @@
 # Quantum Eigenfaces
 
-Implementation of the research paper [*Quantum Eigenfaces: Linear Feature Mapping and Nearest Neighbor Classification with Outlier Detection*](https://ieeexplore.ieee.org/abstract/document/10313728).
+Implementation of the research paper [*Quantum Eigenfaces: Linear Feature Mapping and Nearest Neighbor Classification with Outlier Detection*](https://re.public.polimi.it/bitstream/11311/1257173/1/Quantum_Eigenfaces__Linear_Feature_Mapping_and_Nearest_Neighbor_Classification_with_Outlier_Detection___IEEEQCE23.pdf).
 
 ### Quick Setup
 
